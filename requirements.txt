@@ -1,0 +1,9 @@
+beautifulsoup4
+Flask
+Flask_Cors
+nltk
+numpy
+requests
+tensorflow
+tflearn
+waitress
