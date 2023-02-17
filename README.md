@@ -8,6 +8,6 @@
   ![image](https://user-images.githubusercontent.com/77420469/219707794-4c54e133-efe4-47af-828e-d61fb92ec27b.png)
   
 ### chú thích:
-  - file `data.json` sẽ là tập training
+  - file `data.json` sẽ là tập dữ liệu chat để training
   - chạy url: `http://127.0.0.1:5000/training` để training dữ liệu
   - hãy reset lại khi training xong
